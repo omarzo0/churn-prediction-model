@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "churn-prediction-model",
+		"path": "../../collage/spring 2024/machine learning/churn-prediction-model"
+	},
+	{
+		"name": "Web",
+		"path": "."
+	}
+],
+  "settings": {}
+}
